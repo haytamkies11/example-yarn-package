@@ -16,7 +16,8 @@
     "lodash": "^4.16.2"
   },
   "devDependencies": {
-    "jest-cli": "15.1.1"
+    "jest-cli": "15.1.1",
+    "eslint": "^4.18.1"
   },
   "jest": {
     "testEnvironment": "node"
